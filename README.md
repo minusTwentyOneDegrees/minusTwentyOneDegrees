@@ -2,8 +2,9 @@
 - 👀 I'm generally interested in Computer Science and languages.
 - 🌱 I’m currently learning C#.
 - 📫 How to reach me?
-- You can get me in Discord: -21°#8786
-Thank you for looking my creepy code!
+- You can get me in Discord: -21°#8786 
+- Thank you for looking my creepy code!
+ 
 
 <!---
 minusTwentyOneDegrees/minusTwentyOneDegrees is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
