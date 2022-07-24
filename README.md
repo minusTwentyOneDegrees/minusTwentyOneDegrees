@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C#.
 - 📫 How to reach me?
 - You can get me in Discord: -21°#8786 
-- Thank you for looking my creepy code!
+- Thank you for looking my terrible code!
  
 
 <!---
