@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @minusTwentyOneDegrees
-- 👀 I'm generally interested in Computer Science and languages.
+- 👀 I'm generally interested in Computer Science and foreign languages.
 - 🌱 I’m currently learning C#.
 - 📫 How to reach me?
 - You can get me in Discord: -21°#8786 
